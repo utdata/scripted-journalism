@@ -16,3 +16,7 @@ Census bureau data used for an Excel assignment for formulas. Will use for an ag
 ## LocalCrimeOneYearofData.csv
 
 Test file of UCR data downloaded from the FBI search tool, used in the "Uniform Crime Reprots" lesson, but will probably be superceded by the [new API](https://18f.gsa.gov/2017/09/07/opening-the-nations-crime-data/). 
+
+## fbi-*
+
+These are files downloaded using the fbi ucr api.
